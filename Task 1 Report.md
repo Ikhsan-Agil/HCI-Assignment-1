@@ -5,18 +5,20 @@ Terjadi kecelakaan penyeberangan rel kereta api di Tanah Kusir Jakarta Selatan p
 
 ## Desain Error
 
-![Penyeberangan Rel Kereta Api]
+![Penyeberangan Rel Kereta Api](https://github.com/FarisAlHusain20/HCI-Assignment-1/blob/master/Penyeberangan1.jpg)
 
 Penyeberangan rel kereta api TPU Tanah Kusir adalah sebuah penyeberangan rel kereta api sebidang. Bila ditelusuri, standar keamanan penyeberangan rel kereta api seperti ini sudah diatur dalam Peraturan Menteri Perhubungan Republik Indonesia Nomer 94 Tahun 94 pasal 14 sampai pasal 30. Dalam Pasal 14 telah dituliskan bahwa peralatan keselamatan seperti ini harus memiliki komponen konstruksi:
-a. Portal pengaman pengguna Jalan;
-b. Isyarat Lampu Peringatan/Larangan;
-c. Isyarat Suara;
-d. Isyarat tulisan berjalan/ variable message sign (VMS);
-e. Alat pendeteksi kereta api;
-f. Pengendali utama Peralatan Keselamatan Perlintasan Sebidang ( main controller); dan
-g. Catu daya.
+- Portal pengaman pengguna Jalan;
+- Isyarat Lampu Peringatan/Larangan;
+- Isyarat Suara;
+- Isyarat tulisan berjalan/ variable message sign (VMS);
+- Alat pendeteksi kereta api;
+- Pengendali utama Peralatan Keselamatan Perlintasan Sebidang ( main controller); dan
+- Catu daya.
 
 Namun kenyataannya, penyeberangan rel kereta api TPU Tanah Kusir tidak memiliki kedelapan komponen keselamatan yang ditulis di peraturan tersebut. Walaupun penyeberangan rel itu sudah lama ada, dan sudah 2 tahun semenjak peraturan tersebut dibuat.
+
+## Mock-up Design
 
 ## Saran
 Pengadaan komponen penyeberangan rel TPU Tanah Kusir harus sesegera mungkin dikerjakan sesuai dengan peraturan yang ada. Hal ini melingkupi pengadaan kedelapan komponen keselamatan yang ada. Sehingga penyeberangan rel tersebut dapat dilewati dengan aman di masa mendatang.
