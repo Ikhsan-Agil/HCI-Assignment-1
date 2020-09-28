@@ -1,6 +1,6 @@
 # Wawancara dengan Rayhan Dwi Pratama Kusuma
 
-Wawancara dengan Rayhan Dwi Pratama Kusuma pada sabtu, 26 September 2020 Pukul 20.06 WIB dengan platform Zoom. Rayhan Dwi Pratama Kusuma adalah seorang UX Designer yang bekerja di salah satu software house di Indonesia yaitu Hitam Putih SEO selama 6 bulan. 
+Wawancara dengan Rayhan Dwi Pratama Kusuma pada Sabtu, 26 September 2020 Pukul 20.06 WIB dengan platform Zoom. Rayhan Dwi Pratama Kusuma adalah seorang UX Designer yang bekerja di salah satu software house di Indonesia yaitu Hitam Putih SEO selama 6 bulan. 
 
 Berikut ini adalah hasil tanya jawab dengan Kak Rayhan Dwi Pratama Kusuma.
 
