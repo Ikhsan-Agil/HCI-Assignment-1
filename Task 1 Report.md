@@ -1,4 +1,4 @@
-# Kesalahan Desain pada penyeberangan rel kereta api di Tanah Kusir Jakarta Selatan
+# Kesalahan Desain pada Penyeberangan Rel Kereta Api
 
 ## Kronologi Kejadian
 Terjadi kecelakaan penyeberangan rel kereta api di Tanah Kusir Jakarta Selatan pada 17 September 2020. Kejadian bermula ketika seorang sopir mobil taksi online mendapat pesanan dari daerah Radio Dalam menuju ke Pesanggrahan. Mobil melewati pemakaman TPU Tanah Kusir sekitar pukul 6 pagi, di saat yang bersamaan, KRL dengan KA 1931 relasi Rangkas Bitung-Tanah Abang melintas di lokasi tersebut. Mobil pun tertabrak di bagian depan dan lalu terpental. Mobil mengalami kerusakan di bagian depan, samping dan belakang. Untungnya keempat penumpang mobil tersebut tidak ada yang meninggal.
