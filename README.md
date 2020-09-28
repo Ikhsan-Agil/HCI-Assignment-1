@@ -19,9 +19,9 @@ Answer : [Railroad crossing accident](https://github.com/FarisAlHusain20/HCI-Ass
 
 Answer : [Report]
 
-Interview Video : [Youtube]
+Interview Video : [Youtube](https://youtu.be/91elSZwtqko)
 
 ### Contributors
 * **Nehemiah Austen Pison** - Ilmu Komputer Universitas Negeri Jakarta - [EzraelVio](https://github.com/EzraelVio)
-* **Ikhsan Agil Kusuma** - Ilmu Komputer Universitas Negeri Jakarta -
+* **Ikhsan Agil Kusuma** - Ilmu Komputer Universitas Negeri Jakarta - [Ikhsan-Agil](https://github.com/Ikhsan-Agil)
 * **Muhammad Faris Al Husain** - Ilmu Komputer Universitas Negeri Jakarta - [FarisAlHusain20](https://github.com/FarisAlHusain20)
