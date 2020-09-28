@@ -1,1 +1,1 @@
-# HCI-Assignment-1
+# HCI Assignment 1
