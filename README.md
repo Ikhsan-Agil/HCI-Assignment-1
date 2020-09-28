@@ -12,9 +12,16 @@
 - Provide suggestion to improve the design
 - Create a UX mockup to improve the design
 
-Answer : 
+Answer : [Railroad crossing accident]
 
 ## Task 2
 - Interview an application designer (desktop/web/mobile) that have long term standing in UX design or have rich design portfolio
 
-Answer : 
+Answer : [Report]
+
+Interview Video : [Youtube]
+
+### Contributors
+* **Nehemiah Austen Pison** - Ilmu Komputer Universitas Negeri Jakarta - [EzraelVio](https://github.com/EzraelVio)
+* **Ikhsan Agil Kusuma** - Ilmu Komputer Universitas Negeri Jakarta -
+* **Muhammad Faris Al Husain** - Ilmu Komputer Universitas Negeri Jakarta - [FarisAlHusain20](https://github.com/FarisAlHusain20)
