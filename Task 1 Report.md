@@ -20,7 +20,7 @@ Namun kenyataannya, penyeberangan rel kereta api TPU Tanah Kusir tidak memiliki 
 
 ## Penambahan Desain
 
-![Mockup Design]
+![Mockup Design](https://github.com/FarisAlHusain20/HCI-Assignment-1/blob/master/mockup%20improvement.jpg)
 
 ## Saran
 Pengadaan komponen penyeberangan rel TPU Tanah Kusir harus sesegera mungkin dikerjakan sesuai dengan peraturan yang ada. Hal ini melingkupi pengadaan kedelapan komponen keselamatan yang ada. Sehingga penyeberangan rel tersebut dapat dilewati dengan aman di masa mendatang.
