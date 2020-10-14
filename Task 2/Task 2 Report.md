@@ -13,6 +13,10 @@ Video : [Youtube](https://www.youtube.com/watch?v=lrZcGu8U7Ng&feature=youtu.be)
 
 Membuat dua desain solusi yang akan dipilih dalam voting.
 
+[Desain 1]
+
+[Desain 2]
+
 ### Day 3
 
 Menentukan desain solusi yang terbaik dengan voting. Voter adalah teman-teman Ilmu Komputer 2019 yang  dipilih secara acak.
