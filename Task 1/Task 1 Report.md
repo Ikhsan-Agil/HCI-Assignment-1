@@ -22,4 +22,4 @@ Terdapat beberapa alasan mengenai hal ini, yaitu:
 
 5.	Pada halaman materi desain sangat sederhana terlihat seperti bentuk pdf.
 
-![Image 4]
+![Image 4](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%20materi.jpeg)
