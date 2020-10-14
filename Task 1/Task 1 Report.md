@@ -16,7 +16,7 @@ Terdapat beberapa alasan mengenai hal ini, yaitu:
 
 3.	Selain itu, desain hyperlink pada subbab sebaiknya diganti dengan desain tombol
 
-![Image 3]
+![Image 3](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%202%20subbab.jpg)
 
 4.	Kemudian, penamaan subbab pada aplikasi tersebut kurang jelas sehingga dapat membingungkan pengguna. Sebaiknya nama subbab langsung disebutkan
 
