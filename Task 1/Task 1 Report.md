@@ -25,3 +25,5 @@ Terdapat beberapa alasan mengenai hal ini, yaitu:
 ![Image 4](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%20materi.jpeg)
 
 [Use Case](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/use%20case.jpeg)
+
+[Activity Diagram](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/activity%20diagram.jpeg)
