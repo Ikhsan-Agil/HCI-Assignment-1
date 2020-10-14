@@ -8,7 +8,7 @@ Terdapat beberapa alasan mengenai hal ini, yaitu:
 
 1.	Pada halaman awal, tampilannya hanya berupa nama aplikasi, daftar isi, dan tombol mulai. Sebaiknya tampilan pada halaman awal digantikan dengan logo aplikasi Jarimatika.
 
-![Image 1](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%201.jpg)
+![Image 1](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%20pertama.jpeg)
 
 2.	Pada halaman utama aplikasi, tombol menu aplikasi tersebut kurang berguna karena hanya menunjukkan deskripsi aplikasi, setelah di klik tombol menu tampilan seperti di bawah ini.
 
