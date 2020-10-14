@@ -10,7 +10,7 @@ Terdapat beberapa alasan mengenai hal ini, yaitu:
 
 ![Image 1](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%201.jpg)
 
-2.	Pada halaman utama aplikasi, tombol menu aplikasi tersebut kurang berguna karena hanya menunjukkan deskripsi aplikasi,setelah di klik tombol menu tampilan seperti di bawah ini.
+2.	Pada halaman utama aplikasi, tombol menu aplikasi tersebut kurang berguna karena hanya menunjukkan deskripsi aplikasi, setelah di klik tombol menu tampilan seperti di bawah ini.
 
 ![Image 2](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%202.jpg)
 
