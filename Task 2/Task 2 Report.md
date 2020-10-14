@@ -13,9 +13,9 @@ Video : [Youtube](https://www.youtube.com/watch?v=lrZcGu8U7Ng&feature=youtu.be)
 
 Membuat dua desain solusi yang akan dipilih dalam voting.
 
-[Desain 1]
+![Desain 1](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%202/Desain%20Buatan%20M.%20Faris.jpeg)
 
-[Desain 2]
+![Desain 2]
 
 ### Day 3
 
