@@ -12,7 +12,7 @@ Terdapat beberapa alasan mengenai hal ini, yaitu:
 
 2.	Pada halaman utama aplikasi, tombol menu aplikasi tersebut kurang berguna karena hanya menunjukkan deskripsi aplikasi,setelah di klik tombol menu tampilan seperti di bawah ini.
 
-![Image 2]
+![Image 2](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%201/halaman%202.jpg)
 
 3.	Selain itu, desain hyperlink pada subbab sebaiknya diganti dengan desain tombol
 
