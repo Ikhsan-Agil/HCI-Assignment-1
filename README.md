@@ -41,6 +41,8 @@
 * Identify Key business use cases
 * The output of this task is key use cases, key activity diagrams, and narration
 
+Application : [Jarimatika (short fingers and Mathematics)](https://play.google.com/store/apps/details?id=com.tipsdani.jarimatika.berhitungmetodejarimatika.creativedeveloper.jayaraya.jarimatika&hl=en_US)
+Developer : creativedeveloper.com
 Answer : [Report]
 
 ## Task 2
