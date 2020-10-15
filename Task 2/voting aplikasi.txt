@@ -1,0 +1,101 @@
+Ikhsan	: Good evening everyone
+Everyone: good evening
+Pramudio: Good night, nite, nitee
+Nehemiah: let's continue. 
+Ikhsan	: So this evening. We from group K Human Computer Interaction, Jakarta State University
+want to hold a voting from 2 design made by Nehemiah and M Faris
+Pramudio: Aight, cool
+Nehemiah: Ok
+Nehemiah and Ikhsan: So
+Ikhsan	: we continue to Nehem
+Nehemiah: maybe Ikhsan, talk a bit about the application first
+Ikhsan	: the application? oh the application! the application that we made the mockups for
+called Jaritmatika. That is developed by creativedeveloper.com which located in Jakarta
+Nehemiah: okay next we will show the designs
+Ikhsan	: Yes, ok. please do
+Nehemiah: Okay, now i want to show the designs from us. okay, for the first design designed by
+M Faris. So the application Jaritmatika is actually pretty simple. so this is Faris' design
+Faris can you explain it for us?
+Faris	: umm, how do i explain it? from the image of the first page there is a start button
+and the title. after you tap Start, you go straight to the second page the collection of "learning Jaritmatika"
+there is also the back button and the options. and there in the bottom is a place for ads
+Nehemiah: and the third one?
+Faris	: First, tap one of the options. then the next page the third one, The inside are contents
+from Jaritmatika 1, 2 and 3. that's all.
+Nehemiah: is there any question maybe?
+Zafran	: I am Zafran Bahij, i want to ask a question. there are 4 boxes, what are the menus for them?
+the menus that meant to be put in there perhaps
+Faris	: so there are 4 contents, Jaritmatika 1, Jaritmatika 2, Jaritmatika 3, Jaritmatika 4
+and developer can add more.
+Zafran	: so for each... for example Jaritmatika 1, the one who would come up is the image to the right?
+Faris	: Uhum (yes)
+Zafran	: okay, thanks for the answer
+Nehemiah: okay, is there anymore question?
+Faris	: are there more?
+Nehemiah: okay, we will continue to the second design. for the second design there is a page for the main menu
+that one on the left there is a title, and the start button at the bottom. i put there on purpose
+so you can easily press it with one hand. that is all, there is no other excuse. and then for the second menu
+there is the menu for Jaritmatika 1, 2, 3, 4. so for Jaritmatika 1 there is a title and also 
+the description of the material, shortly. for example: multiplication of 7 and 8, multiplication of 7, 8, 9 and 10 etc
+if pressed, then will pop out to the material menu to the right. with a instructional image to the top, title in the middle.
+and there is below the title, stock text to represent the location for the text material. and the design if if is say 
+should be made into parts. so to continue to the next part you must press "next step" or "last step" from there
+to go back to the starting menu, there is a button there on the bottom. that's all. any question?
+Faris	: Any question?
+Pramudio: There are none
+Anindyo	: Looks like not
+Pramudio: the back to menu button will it be improved or stay the way it is?
+Nehemiah: simple as it is
+Faris	: Improve
+Nehemiah: just let it be
+Faris	: will be improved later
+Pramudio: and why in the lower left corner? what if you acidentally pressed the lower left of the phone?
+Nehemiah: but in contrary, if i must say so. it's easier to press the button on the bottom than on the middle or the top
+Pramudio: but maybe too low and its too close to the other button on the phone
+Nehemiah: yea, that can also happen
+Faris	: if can, maybe it can be improve upon. maybe can be added button to continue
+Nehemiah: The continue button already exist there, the "next step" button
+Faris	: oh it already exit?
+Nehemiah: yes it is
+Nehemiah: any more question?
+Zafran	: umm Nehem, can i give a kind of advice? a bit
+Nehemiah: of course you can
+Zafran	: Maybe if i remember correctly. the title menu is bettter represented as an image of a home
+Nehemiah: oh, of course, of course
+Zafran	: so the for home menu perhaps people would already think "home is for going to menu". that's about it actually
+Nehemiah: of course, of course. thank you for the advice Zafran. anymore question?
+Alfaro	: can i give an advice?
+Nehemiah: yes you can of course
+Alfaro	: my advice is for the color. the problem is from the page 1, page 2, page 3. in my opinion there are too many colors
+in the first page there are the same color, page 2 have the same color, page 3 have the same color, like that. so, there's colored red here
+Nehemiah: Yes
+Alfaro	: The 3rd one. and in page 1 and 2, there are none right? so, it looks like there are too many colors
+Nehemiah: okay, i understand
+Faris	: constant?
+Nehemiah: yes, so don't use too many colors
+Pramudio: yea, please dont use bright colors. if its in drawing grapich use the lower middle color, like that. don't use top left and right colors 
+Nehemiah: Ok, ok. okay anything else?
+Alfaro	: and the start button if i must say in my opinion can be rounded a little bit. so not everything will be a square
+Pramudio: that can later be done in the improvement. this is still a mockup afterall
+Nehemiah: yes this is still a mockup. so is there anything else? okay maybe we can start the voting process. how about that? agree?
+everyone: agree
+Nehemiah: okay one by one, want me to call by name, or anyone want to talk first? who first? hello?
+Pramudio: bye-bye
+Nehemiah: i will pick, how about that?
+other	: it's fine
+Nehemiah: okay. started from Zafran maybe?
+Zafran	: for me personally i would prefer the number 2
+Nehemiah: for Alfero?
+Alfaro	: okay, for me it is 2
+Nehemiah: Pramudio?
+Pramudio: actually prefer number one but it lack colors
+Nehemiah: Okay so design number 1
+Ikhsan	: for the color, it can still be changed
+Nehemiah: it's fine, it's fine. it can be added. brother Anindyo?
+Anindyo	: if it's according to me, both are good but i prefer number 2
+Nehemiah: for Asep?
+Asep	: if it's me i pick number 2. yours Nehem
+Nehemiah: Okay so for the score it's 1 to 4 yes? okay so the chosen design is design number 2
+Ikhsan	: maybe there are more input? from the other 
+Zafra	: from me, maybe there are none
+Ikhsan	: okay, so this meeting can be closed. that's all voting for today. if there are any mistakes, we ask for forgivenes. good evening everyone

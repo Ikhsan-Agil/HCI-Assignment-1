@@ -1,0 +1,87 @@
+Ikhsan	: Good evening everyone
+Nehemiah: Evening
+Faris	: Tonight
+Ikhsan	: In this evening
+Ikhsan	: We will discuss about the application developed by:Creativedevelopment.com
+which is located in Jakarta. the app is Jaritmatika. So Jaritmatika is an application
+that displays the Jaritmatika method, namely: a method that calculates mathematics
+by hand.
+Ikhsan	: straight to sharescreen
+Nehemiah: OK
+Faris	: Straight to share screen
+Nehemiah: Now we will share screen the first page of Jaritmatika
+Ikhsan	: Yes, this is the first page of the Jaritmatika application. On this first page it
+only contains a list of it's contents. then there is a continue button. Actually
+on this first page the contents list aren't needed, because later when, for example, it is clicked, it
+will continue to appear later anyway, the materials. so, On the first page , the contents list is not used because
+we can be directly clicked continue.
+Nehemiah: Okay, can i give input or not? a suggestion
+Ikhsan	: Yes please
+Nehemiah: OK if in  my opinion the first page is useless. So it's better to replace it with the application
+logo if one exist.
+Ikhsan	: Yes, that's right.
+Nehemiah: Instead of just this. Thats my opinion. How about you Faris? any opinion? This is the discussion after all.
+Faris	: Nothing.
+Nehemiah: Nothing? okay. We can just go to page 2 right everyone? Can we?
+Ikhsan	: Yes, please continue
+Faris	: Yeah, lets just continue
+Nehemiah: Okay. Now we are entering the main men.. the material menu. Materials of Jaritmatika. if you look here
+here are the four materials jaritmatika 1, 2 and jaritmatika 3, and 4. In my opinion. there is a button above,
+but this button has no use at all. it just poping out "smart with fingers, learning mathematics".
+that all there is. any opinion?
+Ikhsan	: Okay, I have an opinion.
+Nehemiah: Yes, it's okay. Come on
+Ikhsan	: So for the links, learning jaritmatika 1, jaritmatika 2, learning jaritmatika 3, learning jaritmatika 4.
+it's better to just replace them with buttons
+Nehemiah: What kind of buttons?
+Ikhsan	: Button, like usualy when you play games there is a play option and a button for that
+Nehemiah: oh so you mean they should have colors?
+Ikhsan	: yes, the buttons should have colors. like for example buttons, like...a rounded box but there are writings.
+for example: games has play, then option, then exit, and so on. just make it like that. for example: Jaritmatika 1, 2, 3, 4
+Nehemiah: Oh, so it are not just writing. i see, i see. Faris, do you have any opinion?
+Faris	: Nothing.
+Nehemiah: Nothing? also, I want to add more. there are 4 menus, but the 4 menus don't tell you what their materials are
+Ikhsan	: Yes, that's right.
+Nehemiah: it's ambiguous, so what do you mean by Jaritmatika 1, 2, 3, and 4? what are the diffrences? it didnt get explained
+maybe they need to add more (to) the menus. alright let's continue to the material menu material page. not all, let's just pick one
+Ikhsan	: cool
+Faris	: OK , let's continue
+Nehemiah: OK we're already on page 3. Faris, maybe you can give us a starting opinion
+Faris	: Yes, on page three. The design is not very interesting, the image too, how do you say it? it's like a pdf.
+not interactive
+Nehemiah: yes, agree. so it should be made more like there is something thats going on. i mean, yea... The explanation is actually okay
+if i say myself but not attractive enough. Its not too interactive either so in the end its like reading a pdf. maybe, if we wanto to...
+we can take a look at other pages? or not? maybe not nevermind, let's just take a look. this is Jaritmatika 2. it looks the same?
+Faris	: This is the same as before
+Ikhsan	: it's the same
+Nehemiah: it's not very attractive, the picture is not fitting if i say so. do you guys think the image placement is not quite right? it's like
+its really neatpicking, but both left and right are very different. but this is not too important. yes, thats all i have to say. it not attractive enough, just like a pdf
+let's see the third one. it's the same. the image is now too wide. yes, it's just the same.
+Ikhsan	: oh, also an addon. In the material section earlier, the third slide.
+Nehemiah: Yes?
+Ikhsan	: the images margin are to the left, it suppose to be centered. so its pleasing to look
+Nehemiah: Ah yes, i agree. but that's all of the application, just three pages. the first page, the main menu, and material menus, that's all
+Ikhsan	: the page. what's the word? it's better for the content list to be replaced with the application logo. Then on the second page
+what's the word? the writings "learning jaritmatika" in the form of link, is better to be made into buttons. so, it looks like in games
+Nehemiah: oh, button forms of the material titles. so that it is clear what the difference between jaritmatika 1, 2, and 3.
+Ikhsan	: yes, also in the title of the material it's not too clear. because it's only "learn jaritmatika 1, learn jaritmatika 2" to "learn jaritmatika 4"
+there should be for example, like "multiplication with 2" and maybe "multiplication with nine". like that.
+Nehemiah: the 3rd page?
+Ikhsan	: then for page 3. the design, is not interesting
+Nehemiah: and it's not interactive either, no?
+Ikhsan	: and it's also not interactive
+Nehemiah: Yes
+Ikhsan	: because the form of the page looks like a pdf
+Nehemiah: Yes agree
+Ikhsan	: Then also, for the placement of the image is also not good to look at. because all the image are set to left margin
+Nehemiah: Yes
+Ikhsan	: Well it suppose to, so its nice to look at. the image margin are centered, a bit to the middle.
+Nehemiah: Yep, understand. but, for the materials they are easy to understand. i can agree on that. its better than the other
+it's easy to follow because there are images. thats the only thing that is good from the app. but yes, it's not interesting right?
+Ikhsan	: yep
+Nehemiah: okay , that's all right? Ikhsan, close the discussion please.
+Ikhsan	: That's all for our discussion tonight. if there is any lack whatsover, we apologies. good night everyone
+Faris	: Night Ikhsan
+Nehemiah: Night Ikhsan
+
+
