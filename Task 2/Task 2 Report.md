@@ -29,6 +29,8 @@ Menentukan desain solusi yang terbaik dengan voting. Voter adalah teman-teman Il
 
 Video : [Youtube](https://www.youtube.com/watch?v=kZFw9oRKGjs&feature=youtu.be)
 
+[English Subtitle](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%202/voting%20aplikasi.txt)
+
 ### Day 4
 
 Kami telah mengirim email kepada developer pada hari Jumat, 9 Oktober 2020 pukul 21.40 WIB dan mengirimkan ulang email pada hari Selasa, 13 Oktober 2020 pukul 06.12 WIB namun belum juga dibalas.
