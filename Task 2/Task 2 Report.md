@@ -9,6 +9,8 @@ Kelompok K Mata Kuliah Human Computer Interaction (HCI) telah mengadakan diskusi
 
 Video : [Youtube](https://www.youtube.com/watch?v=lrZcGu8U7Ng&feature=youtu.be)
 
+[English Subtitle](https://github.com/FarisAlHusain20/HCI-Assignment/blob/hw2/Task%202/voting%20aplikasi.txt)
+
 ### Day 2
 
 Membuat dua desain solusi yang akan dipilih dalam voting.
